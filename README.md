@@ -6,11 +6,11 @@ Unofficial iOS ports of Harbour Masters projects by Sunset-Dawn.
 
 ## Ports Included
 
-- **Shipwright-iOS** (TLoZ: Ocarina of Time)
-- **2Ship2Harkinian-iOS** (TLoZ: Majora's Mask)
-- **SpaghettiKart-iOS** (Mario Kart 64)
-- **Ghostship-iOS** (Super Mario 64)
-- **Starship-iOS** (Star Fox 64)
+- **Shipwright-iOS** (TLoZ: Ocarina of Time | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Shipwright-iOS-9.2.3-I.ipa))
+- **2Ship2Harkinian-iOS** (TLoZ: Majora's Mask | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/2Ship2Harkinian-iOS-4.0.2-F.ipa))
+- **SpaghettiKart-iOS** (Mario Kart 64 | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/SpaghettiKart-iOS-1.0.0-E.ipa))
+- **Ghostship-iOS** (Super Mario 64 | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Ghostship-iOS-2.0.0-A.ipa))
+- **Starship-iOS** (Star Fox 64 | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Starship-iOS-2.0.0-A.ipa))
 
 ## Requirements
 
