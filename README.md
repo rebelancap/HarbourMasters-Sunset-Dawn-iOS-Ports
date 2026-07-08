@@ -12,6 +12,10 @@ Unofficial iOS ports of Harbour Masters projects by Sunset-Dawn.
 - **Ghostship-iOS** (Super Mario 64 | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Ghostship-iOS-2.0.0-A.ipa))
 - **Starship-iOS** (Star Fox 64 | [Download](https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Starship-iOS-2.0.0-A.ipa))
 
+## SideStore Source
+
+[Use this link](https://raw.githubusercontent.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/refs/heads/main/sidestore.json) to add as a source in SideStore, AltStore, etc.
+
 ## Requirements
 
 You must provide:
