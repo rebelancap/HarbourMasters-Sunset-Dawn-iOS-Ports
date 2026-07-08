@@ -1,0 +1,112 @@
+{
+  "name": "HarbourMasters iOS Ports",
+  "identifier": "com.rebelancap.harbourmasters-ios",
+  "apps": [
+    {
+      "name": "2Ship2Harkinian",
+      "bundleIdentifier": "com.harbourmasters.2ship",
+      "developerName": "HarbourMasters",
+      "subtitle": "Majora's Mask on iOS",
+      "localizedDescription": "A native port of The Legend of Zelda: Majora's Mask for iOS. Requires a base ROM.",
+      "iconURL": "",
+      "tintColor": "1a6b8a",
+      "minOSVersion": "15.0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.0.2",
+          "date": "2026-07-08",
+          "downloadURL": "https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/2Ship2Harkinian-iOS-4.0.2-F.ipa",
+          "localizedDescription": "2Ship2Harkinian iOS port v4.0.2.",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Ghostship",
+      "bundleIdentifier": "dev.hm64.ghostship",
+      "developerName": "HarbourMasters",
+      "subtitle": "Super Mario 64 on iOS",
+      "localizedDescription": "A native port of Super Mario 64 for iOS. Requires a base ROM.",
+      "iconURL": "",
+      "tintColor": "c0392b",
+      "minOSVersion": "15.0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-07-08",
+          "downloadURL": "https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Ghostship-iOS-2.0.0-A.ipa",
+          "localizedDescription": "Ghostship iOS port v2.0.0.",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Shipwright",
+      "bundleIdentifier": "com.shipwright.ios",
+      "developerName": "HarbourMasters",
+      "subtitle": "Ocarina of Time on iOS",
+      "localizedDescription": "A native port of The Legend of Zelda: Ocarina of Time for iOS. Requires a base ROM.",
+      "iconURL": "",
+      "tintColor": "27ae60",
+      "minOSVersion": "15.0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "9.2.3",
+          "date": "2026-07-08",
+          "downloadURL": "https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Shipwright-iOS-9.2.3-I.ipa",
+          "localizedDescription": "Shipwright iOS port v9.2.3.",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "SpaghettiKart",
+      "bundleIdentifier": "com.harbourmasters.spaghettikart",
+      "developerName": "HarbourMasters",
+      "subtitle": "Mario Kart 64 on iOS",
+      "localizedDescription": "A native port of Mario Kart 64 for iOS. Requires a base ROM.",
+      "iconURL": "",
+      "tintColor": "e74c3c",
+      "minOSVersion": "15.0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-08",
+          "downloadURL": "https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/SpaghettiKart-iOS-1.0.0-E.ipa",
+          "localizedDescription": "SpaghettiKart iOS port v1.0.0.",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Starship",
+      "bundleIdentifier": "com.hm64.starship",
+      "developerName": "HarbourMasters",
+      "subtitle": "Star Fox 64 on iOS",
+      "localizedDescription": "A native port of Star Fox 64 for iOS. Requires a base ROM.",
+      "iconURL": "",
+      "tintColor": "8e44ad",
+      "minOSVersion": "15.0",
+      "appPermissions": {},
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-07-08",
+          "downloadURL": "https://github.com/rebelancap/HarbourMasters-Sunset-Dawn-iOS-Ports/releases/download/last/Starship-iOS-2.0.0-A.ipa",
+          "localizedDescription": "Starship iOS port v2.0.0.",
+          "size": 0
+        }
+      ]
+    }
+  ],
+  "news": []
+}
