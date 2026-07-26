@@ -1,4 +1,29 @@
-# Sunset-Dawn iOS Ports (Community Mirror)
+## These ports are now outdated. Please see my new ports:
+
+| Port | Github Project |
+| --- | --- |
+| TLoZ: Ocarina of Time |[Shipwright-ios](https://github.com/rebelancap/Shipwright-ios) |
+| TLoZ: Majora's Mask | [2ship2harkinian-ios](https://github.com/rebelancap/2ship2harkinian-ios) |
+| Mario Kart 64 | [SpaghettiKart-ios](https://github.com/rebelancap/SpaghettiKart-ios) |
+| Super Mario 64 | [Ghostship-ios](https://github.com/rebelancap/Ghostship-ios) |
+| Star Fox 64 | [Starship-ios](https://github.com/rebelancap/Starship-ios)
+<br>
+
+
+**Or just install the SideStore source:**
+
+## SideStore Links
+
+| Device | Source URL |
+| --- | --- |
+| iPhone / iPad | `https://raw.githubusercontent.com/rebelancap/harbourmasters-ports/main/apps-ios.json` |
+| Apple Vision Pro | `https://raw.githubusercontent.com/rebelancap/harbourmasters-ports/main/apps-visionos.json` 
+
+<br>
+
+---
+
+# Sunset-Dawn iOS Ports (Community Mirror) (Archived)
 
 Unofficial iOS ports of Harbour Masters projects by Sunset-Dawn.
 
